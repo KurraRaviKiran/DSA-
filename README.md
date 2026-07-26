@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KurraRaviKiran/DSA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Array
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/KurraRaviKiran/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/KurraRaviKiran/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/KurraRaviKiran/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->

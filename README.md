@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/KurraRaviKiran/DSA-/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KurraRaviKiran/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
+| [1200-minimum-absolute-difference](https://github.com/KurraRaviKiran/DSA-/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KurraRaviKiran/DSA-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KurraRaviKiran/DSA-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KurraRaviKiran/DSA-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/KurraRaviKiran/DSA-/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KurraRaviKiran/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
+| [1200-minimum-absolute-difference](https://github.com/KurraRaviKiran/DSA-/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KurraRaviKiran/DSA-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KurraRaviKiran/DSA-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KurraRaviKiran/DSA-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |

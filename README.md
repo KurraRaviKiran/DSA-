@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KurraRaviKiran/DSA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/KurraRaviKiran/DSA-/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Sliding Window
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KurraRaviKiran/DSA-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KurraRaviKiran/DSA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KurraRaviKiran/DSA-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/KurraRaviKiran/DSA-/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Counting
 |  |
 | ------- |
@@ -62,8 +64,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/KurraRaviKiran/DSA-/tree/master/1004-max-consecutive-ones-iii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/KurraRaviKiran/DSA-/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/KurraRaviKiran/DSA-/tree/master/1004-max-consecutive-ones-iii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/KurraRaviKiran/DSA-/tree/master/2024-maximize-the-confusion-of-an-exam) |
 <!---LeetCode Topics End-->

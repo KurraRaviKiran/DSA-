@@ -7,7 +7,7 @@ class Solution:
         for r in range(n):
             if a[r]==0:
                 temp +=1
-            while temp > k:
+            while temp >k:
                 if a[l] ==0:
                     temp-=1
                 l+=1

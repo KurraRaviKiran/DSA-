@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/KurraRaviKiran/DSA-/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/KurraRaviKiran/DSA-/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KurraRaviKiran/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/KurraRaviKiran/DSA-/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/KurraRaviKiran/DSA-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/KurraRaviKiran/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/KurraRaviKiran/DSA-/tree/master/1200-minimum-absolute-difference) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/KurraRaviKiran/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/KurraRaviKiran/DSA-/tree/master/0877-stone-game) |
 ## Sorting
 |  |
 | ------- |
@@ -77,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/KurraRaviKiran/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/KurraRaviKiran/DSA-/tree/master/2024-maximize-the-confusion-of-an-exam) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/KurraRaviKiran/DSA-/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/KurraRaviKiran/DSA-/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

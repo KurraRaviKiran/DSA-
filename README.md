@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/KurraRaviKiran/DSA-/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/KurraRaviKiran/DSA-/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/KurraRaviKiran/DSA-/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KurraRaviKiran/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/KurraRaviKiran/DSA-/tree/master/0877-stone-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/KurraRaviKiran/DSA-/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

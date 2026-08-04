@@ -1,6 +1,6 @@
 class Solution:
     def findMissingElements(self, a: List[int]) -> List[int]:
-        a.sort()
+        # a.sort()
         l = []
         n = len(a)
         ans = float("-inf")

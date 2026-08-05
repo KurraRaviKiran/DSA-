@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KurraRaviKiran/DSA-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0136-single-number](https://github.com/KurraRaviKiran/DSA-/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/KurraRaviKiran/DSA-/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/KurraRaviKiran/DSA-/tree/master/0561-array-partition) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KurraRaviKiran/DSA-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/KurraRaviKiran/DSA-/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/KurraRaviKiran/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/KurraRaviKiran/DSA-/tree/master/2024-maximize-the-confusion-of-an-exam) |

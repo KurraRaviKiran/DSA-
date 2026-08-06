@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KurraRaviKiran/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0151-reverse-words-in-a-string](https://github.com/KurraRaviKiran/DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0709-to-lower-case](https://github.com/KurraRaviKiran/DSA-/tree/master/0709-to-lower-case) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KurraRaviKiran/DSA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/KurraRaviKiran/DSA-/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/KurraRaviKiran/DSA-/tree/master/0136-single-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/KurraRaviKiran/DSA-/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->

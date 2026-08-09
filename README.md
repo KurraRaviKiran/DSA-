@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KurraRaviKiran/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KurraRaviKiran/DSA-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0075-sort-colors](https://github.com/KurraRaviKiran/DSA-/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/KurraRaviKiran/DSA-/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/KurraRaviKiran/DSA-/tree/master/0162-find-peak-element) |
 | [0485-max-consecutive-ones](https://github.com/KurraRaviKiran/DSA-/tree/master/0485-max-consecutive-ones) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KurraRaviKiran/DSA-/tree/master/0075-sort-colors) |
 | [0389-find-the-difference](https://github.com/KurraRaviKiran/DSA-/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/KurraRaviKiran/DSA-/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KurraRaviKiran/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KurraRaviKiran/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/KurraRaviKiran/DSA-/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/KurraRaviKiran/DSA-/tree/master/0151-reverse-words-in-a-string) |
 ## Simulation
 |  |
@@ -122,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/KurraRaviKiran/DSA-/tree/master/0258-add-digits) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/KurraRaviKiran/DSA-/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/KurraRaviKiran/DSA-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

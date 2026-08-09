@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KurraRaviKiran/DSA-/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/KurraRaviKiran/DSA-/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/KurraRaviKiran/DSA-/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/KurraRaviKiran/DSA-/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/KurraRaviKiran/DSA-/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/KurraRaviKiran/DSA-/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KurraRaviKiran/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/KurraRaviKiran/DSA-/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/KurraRaviKiran/DSA-/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KurraRaviKiran/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/KurraRaviKiran/DSA-/tree/master/0877-stone-game) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KurraRaviKiran/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/KurraRaviKiran/DSA-/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/KurraRaviKiran/DSA-/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/KurraRaviKiran/DSA-/tree/master/0189-rotate-array) |
 ## Simulation
 |  |
 | ------- |

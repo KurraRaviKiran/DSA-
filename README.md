@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KurraRaviKiran/DSA-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KurraRaviKiran/DSA-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KurraRaviKiran/DSA-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/KurraRaviKiran/DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/KurraRaviKiran/DSA-/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -122,10 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KurraRaviKiran/DSA-/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/KurraRaviKiran/DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/KurraRaviKiran/DSA-/tree/master/0189-rotate-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/KurraRaviKiran/DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/KurraRaviKiran/DSA-/tree/master/0258-add-digits) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/KurraRaviKiran/DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
 | ------- |

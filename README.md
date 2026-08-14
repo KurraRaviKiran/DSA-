@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/KurraRaviKiran/DSA-/tree/master/0389-find-the-difference) |
 | [0904-fruit-into-baskets](https://github.com/KurraRaviKiran/DSA-/tree/master/0904-fruit-into-baskets) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KurraRaviKiran/DSA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/KurraRaviKiran/DSA-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/KurraRaviKiran/DSA-/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/KurraRaviKiran/DSA-/tree/master/0709-to-lower-case) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KurraRaviKiran/DSA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/KurraRaviKiran/DSA-/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/KurraRaviKiran/DSA-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KurraRaviKiran/DSA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KurraRaviKiran/DSA-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/KurraRaviKiran/DSA-/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/KurraRaviKiran/DSA-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
 |  |
 | ------- |

@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/KurraRaviKiran/DSA-/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KurraRaviKiran/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/KurraRaviKiran/DSA-/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/KurraRaviKiran/DSA-/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/KurraRaviKiran/DSA-/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/KurraRaviKiran/DSA-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/KurraRaviKiran/DSA-/tree/master/1004-max-consecutive-ones-iii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KurraRaviKiran/DSA-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/KurraRaviKiran/DSA-/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/KurraRaviKiran/DSA-/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/KurraRaviKiran/DSA-/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/KurraRaviKiran/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/KurraRaviKiran/DSA-/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Prefix Sum

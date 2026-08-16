@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/KurraRaviKiran/DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/KurraRaviKiran/DSA-/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/KurraRaviKiran/DSA-/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/KurraRaviKiran/DSA-/tree/master/0796-rotate-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KurraRaviKiran/DSA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/KurraRaviKiran/DSA-/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KurraRaviKiran/DSA-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0184-department-highest-salary](https://github.com/KurraRaviKiran/DSA-/tree/master/0184-department-highest-salary) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/KurraRaviKiran/DSA-/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/KurraRaviKiran/DSA-/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/KurraRaviKiran/DSA-/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/KurraRaviKiran/DSA-/tree/master/0189-rotate-array) |
+| [0414-third-maximum-number](https://github.com/KurraRaviKiran/DSA-/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/KurraRaviKiran/DSA-/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/KurraRaviKiran/DSA-/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KurraRaviKiran/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/KurraRaviKiran/DSA-/tree/master/0075-sort-colors) |
 | [0389-find-the-difference](https://github.com/KurraRaviKiran/DSA-/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/KurraRaviKiran/DSA-/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/KurraRaviKiran/DSA-/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KurraRaviKiran/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1200-minimum-absolute-difference](https://github.com/KurraRaviKiran/DSA-/tree/master/1200-minimum-absolute-difference) |

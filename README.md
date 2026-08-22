@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/KurraRaviKiran/DSA-/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KurraRaviKiran/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/KurraRaviKiran/DSA-/tree/master/0877-stone-game) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KurraRaviKiran/DSA-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Sorting
 |  |
 | ------- |

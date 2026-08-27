@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/KurraRaviKiran/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/KurraRaviKiran/DSA-/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/KurraRaviKiran/DSA-/tree/master/0128-longest-consecutive-sequence) |
+| [0349-intersection-of-two-arrays](https://github.com/KurraRaviKiran/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/KurraRaviKiran/DSA-/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/KurraRaviKiran/DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [0904-fruit-into-baskets](https://github.com/KurraRaviKiran/DSA-/tree/master/0904-fruit-into-baskets) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KurraRaviKiran/DSA-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/KurraRaviKiran/DSA-/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/KurraRaviKiran/DSA-/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/KurraRaviKiran/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/KurraRaviKiran/DSA-/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/KurraRaviKiran/DSA-/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/KurraRaviKiran/DSA-/tree/master/0485-max-consecutive-ones) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/KurraRaviKiran/DSA-/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/KurraRaviKiran/DSA-/tree/master/0075-sort-colors) |
+| [0349-intersection-of-two-arrays](https://github.com/KurraRaviKiran/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/KurraRaviKiran/DSA-/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/KurraRaviKiran/DSA-/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/KurraRaviKiran/DSA-/tree/master/0451-sort-characters-by-frequency) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KurraRaviKiran/DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KurraRaviKiran/DSA-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/KurraRaviKiran/DSA-/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/KurraRaviKiran/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/KurraRaviKiran/DSA-/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KurraRaviKiran/DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/KurraRaviKiran/DSA-/tree/master/0704-binary-search) |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/KurraRaviKiran/DSA-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KurraRaviKiran/DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/KurraRaviKiran/DSA-/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/KurraRaviKiran/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KurraRaviKiran/DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
